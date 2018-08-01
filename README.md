@@ -1,6 +1,6 @@
 # Ironhack - Hall Of Fame
 
-## Webdev Madrid
+## Webdev Madrid - Hackshow Winners
 * **January 2017:** Carlos de Palacio
 * **April 2017:** Rafael Melón
 * **June 2017:** Mikel Rumayor
