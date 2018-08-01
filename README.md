@@ -10,7 +10,22 @@
 * **March 2018:** Abdallah Aberouch
 * **June 2018:** (Pending...)
 
-
+## Webdev Madrid - Academic Team
+- Marc Pomar
+- Alfonso Huéscar
+- Miguel Moracho
+- Andrei Fernandez
+- Papu Arza
+- Raúl Vega
+- Manuel Avello
+- Manuel del Pino
+- Yaiza García
+- Beltrán Rengifo
+- Victor Rodriguez
+- Susana Vadillo
+- Gabriel Cebrián
+- Juan Sánchez Mesa
+- Giorgio Grassini
  
   
   
