@@ -15,7 +15,7 @@ Marc Pomar.
 * **October 2017:** Cristian Castillo
 * **January 2018:** Ana Recuero
 * **March 2018:** Abdallah Aberouch
-* **June 2018:** Diego Méndez & Enrique Pernia (Pending...)
+* **June 2018:** Diego Méndez & Enrique Pernia
 * **September 2018 (Part Time):** Ana Estrada
 
 ## Webdev Madrid - Academic Team
@@ -36,13 +36,15 @@ Marc Pomar.
 - Giorgio Grassini
 - Anna Hogberg
 - Diego Méndez Peño
+- Nicolae Alexe (PT)
+- Camila Maya (PT)
 
 # Data Analytics & Machine Learning bootcamp
 
 ## Data Hackshow Winners
 * **October 2018:** Alberto García
 * **January 2019:** Luis Martínez Ruiz
-* **March 2019:** (Pending...)
+* **March 2019:** Yonatan Rodriguez
 * **June 2019:** (Pending...)
 
 ## Data Madrid - Academic Team
