@@ -31,7 +31,7 @@ Marc Pomar.
 - Beltrán Rengifo
 - Victor Rodriguez
 - Susana Vadillo
-- Gabriel Cebrián
+- Gabriel Cebrián Lucas
 - Juan Sánchez Mesa
 - Giorgio Grassini
 - Anna Hogberg
@@ -53,6 +53,13 @@ Marc Pomar.
 - Giorgio Grassini
 - Octavio Garcia Moreno
 - Yonatan Rodriguez
-  
+- Noelia Carrión
+- Felipe Ferrero
+- Francisco Martínez
+- Bego Echavarren
 
-HOLA
+
+Thank you all!
+
+
+
